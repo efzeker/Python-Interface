@@ -1,10 +1,20 @@
 # Mock Up Master Project: Dexter Lab
 
-* This project was the mock up or foundations of my Master Project, Dexter.
+* This project was the mock up or foundations of my Master Project, Dexter. It is builded in Python
 
 ## Features
 
-* Builded in Python
+* Games: Different games and news of Pokémon world.
+* Rock, Paper and Scissors: Practical Pokeball toss
+* Tetris: Train brain level
+* Pokémon: Functionality to recognition under construction
+* Lab: Contain all pokémon and their descriptions.
+* Dexter: Functionality to find pokémon.
+* Calculator: Is built. Many improvements are missing. Under construction.
+
+
+## Images
+
 
 ![Home_MockUp](https://firebasestorage.googleapis.com/v0/b/dexterprojectid.appspot.com/o/clientes%2Fmockup_home.png?alt=media&token=0f7a49f8-3c61-43ab-95d2-04d3452f8af4)
 >Home of MockUp
