@@ -5,8 +5,8 @@
 ## Features
 
 * Games: Different games and news of Pokémon world.
-* Rock, Paper and Scissors: Practical Pokeball toss
-* Tetris: Train brain level
+* Rock, Paper and Scissors: Encourage Practical Pokeball Toss.
+* Tetris: Train brain level. One piece. Under construction.
 * Pokémon: Functionality to recognition under construction
 * Lab: Contain all pokémon and their descriptions.
 * Dexter: Functionality to find pokémon.
