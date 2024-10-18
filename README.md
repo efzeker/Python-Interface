@@ -20,7 +20,7 @@
 >Home of MockUp
 
 
-![Lab_MockUp](https://firebasestorage.googleapis.com/v0/b/dexterprojectid.appspot.com/o/clientes%2Fmockup_lab.png?alt=media&token=f7f03f01-42ea-4ecd-b7ab-57d4ac590d7f)
+![Lab_MockUp](https://firebasestorage.googleapis.com/v0/b/dexterprojectid.appspot.com/o/clientes%2Fmockup_lab.png?alt=media&token=91fde0da-7cff-46c3-abcf-468c48745c7f)
 >Lab of MockUp
 
 
